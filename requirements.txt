@@ -1,0 +1,6 @@
+pandas
+numpy
+geopandas
+rasterio
+pyproj
+shapely
